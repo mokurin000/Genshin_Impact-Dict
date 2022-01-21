@@ -1,4 +1,4 @@
 mkdir -p temp &&
-cat > temp/genshin_impact.txt < *.sh
+cat *.txt > temp/genshin_impact.txt
 libime_pinyindict temp/genshin_impact.txt temp/genshin_impact.dict
 
