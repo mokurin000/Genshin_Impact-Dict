@@ -1,18 +1,17 @@
-秘境
-圣遗物
-七天神像
-传送锚点
-风行秘踪
-原粹树脂
-脆弱树脂
-原石
-凝取结晶
-仙灵
-指引仙灵
-温暖仙灵
-元素方碑
-相位之门
-遗迹之烛
-地灵龛
-摩拉
-岩之印
+秘境 mi'jing 0
+圣遗物 sheng'yi'wu 0
+七天神像 qi'tian'shen'xiang 0
+传送锚点 chuan'song'miao'dian 0
+风行秘踪 feng'xing'mi'zong 0
+原粹树脂 yuan'cui'shu'zhi 0
+脆弱树脂 cui'ruo'shu'zhi 0
+原石 yuan'shi 0
+凝取结晶 ning'qu'jie'jing 0
+仙灵 xian'ling 0
+指引仙灵 zhi'yin'xian'ling 0
+温暖仙灵 wen'nuan'xian'ling 0
+元素方碑 yuan'su'fang'bei 0
+遗迹之烛 yi'ji'zhi'zhu 0
+地灵龛 di'ling'chi 0
+摩拉 mo'la 0
+岩之印 yan'zhi'yin 0
