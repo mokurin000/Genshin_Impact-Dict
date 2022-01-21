@@ -1,5 +1,5 @@
 # Genshin_Impact-Dict
-原神词典，适用于fcitx5
+原神词典，适用于fcitx5拼音
 
 目前 place 完成度很低，item也不全。人物，武器参考了萌娘百科，应该很全。
 
