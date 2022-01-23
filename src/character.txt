@@ -36,10 +36,10 @@
 香菱 xiang'ling 0
 宵宫 xiao'gong 0
 魈 xiao 0
-辛焱 xin'yan .
-烟绯
-优菈
-云堇
-早柚
-钟离
-重云
+辛焱 xin'yan 0
+烟绯 yan'fei 0
+优菈 you'la
+云堇 yun'xuan 0
+早柚 zao'you 0
+钟离 zhong'li 0
+重云 chong'yun 0
