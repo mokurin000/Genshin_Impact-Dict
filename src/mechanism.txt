@@ -1,7 +1,7 @@
 秘境 mi'jing 0
 圣遗物 sheng'yi'wu 0
 七天神像 qi'tian'shen'xiang 0
-传送锚点 chuan'song'miao'dian 0
+传送锚点 chuan'song'mao'dian 0
 风行秘踪 feng'xing'mi'zong 0
 原粹树脂 yuan'cui'shu'zhi 0
 脆弱树脂 cui'ruo'shu'zhi 0
