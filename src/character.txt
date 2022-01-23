@@ -28,14 +28,15 @@
 砂糖 sha'tang
 心海 xin'hai 0
 申鹤 shen'he 0
-神里绫华 shen'li'ling'hua
-托马
-温迪
-五郎
-香菱
-宵宫
-魈
-辛焱
+神里 shen'li 0
+神里绫华 shen'li'ling'hua 0
+托马 tuo'ma 0
+温迪 wen'di 0
+五郎 wu'lang 0
+香菱 xiang'ling 0
+宵宫 xiao'gong 0
+魈 xiao 0
+辛焱 xin'yan .
 烟绯
 优菈
 云堇
